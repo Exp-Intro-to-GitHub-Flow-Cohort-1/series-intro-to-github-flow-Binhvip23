@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 4
 =======
 0
 >>>>>>> parent of 7ab6a93 (Update to 1 in STEP and README.md)
+=======
+3
+>>>>>>> parent of a563c1f (Update to 4 in STEP and README.md)
